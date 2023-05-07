@@ -3,7 +3,7 @@ Predicting Customer Revenue with Deep Learning
 
 ## Description: 
 
-This project aims to predict whether a customer will generate revenue for the company or not using deep learning techniques. The prediction model is built using a simple neural network with ReLu activation functions. The project is written in Python and is licensed under the MIT license.
+This project aims to predict whether a customer will generate revenue for the company or not using deep learning techniques. The prediction model is built using a simple neural network with ReLu activation functions. 
 
 The dataset used for this project contains customer information such as age, gender, location, and past purchase history. The dataset is preprocessed to remove any missing values and normalize the data to improve the accuracy of the prediction model.
 
@@ -15,6 +15,10 @@ The performance of the model is evaluated using metrics such as accuracy, precis
 
 Overall, this project demonstrates how deep learning techniques can be used to predict customer behavior and improve business outcomes. The MIT license allows for free use and modification of the code, making it accessible to a wide range of developers and organizations.
 
+## Technology
+1. Python
+2. Tensorflow
+
 ## Usage
 Additionally, this project provides valuable insights into the factors that contribute to customer revenue generation. By analyzing the weights assigned to each feature in the neural network, businesses can identify which customer characteristics are most important for driving revenue.
 
@@ -23,3 +27,6 @@ Furthermore, the prediction model can be integrated into a larger customer relat
 The code for this project is well-documented and includes comments to explain each step of the process. The dataset used for training and testing the model is also included, along with instructions for preprocessing the data. 
 
 Overall, this project serves as a valuable resource for businesses looking to leverage deep learning techniques to improve their customer revenue generation strategies.
+
+## License
+The project is licensed under the MIT license.
